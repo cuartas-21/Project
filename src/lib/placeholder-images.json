@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A wide-angle shot of a vibrant green, empty synthetic soccer field at dusk under bright stadium lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1602432141202-e8b683524997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzb2NjZXIlMjBmaWVsZHxlbnwwfHx8fDE3NjEwNzA2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer field"
+    },
+    {
+      "id": "court-1",
+      "description": "A synthetic soccer court with white lines, viewed from the corner.",
+      "imageUrl": "https://images.unsplash.com/photo-1461907781792-c8530f80a0f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzeW50aGV0aWMlMjB0dXJmfGVufDB8fHx8MTc2MTEzOTc0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "synthetic turf"
+    },
+    {
+      "id": "court-2",
+      "description": "Close-up of the goal on a synthetic soccer court.",
+      "imageUrl": "https://images.unsplash.com/photo-1725030971668-684f1e8ca8ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb2NjZXIlMjBnb2FsfGVufDB8fHx8MTc2MTEyMDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer goal"
+    },
+    {
+      "id": "court-3",
+      "description": "An aerial view of a green synthetic court.",
+      "imageUrl": "https://images.unsplash.com/photo-1705594975210-02cbcc7af5ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhZXJpYWwlMjBjb3VydHxlbnwwfHx8fDE3NjExMzk3NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aerial court"
+    },
+    {
+      "id": "court-4",
+      "description": "A synthetic court at night under lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1558453975-d6c57ab62b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuaWdodCUyMGNvdXJ0fGVufDB8fHx8MTc2MTEzOTc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "night court"
+    },
+    {
+      "id": "court-5",
+      "description": "Players on a synthetic court during a match.",
+      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzb2NjZXIlMjBnYW1lfGVufDB8fHx8MTc2MTEzOTc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer game"
+    },
+    {
+      "id": "avatar-1",
+      "description": "A placeholder for a user avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjExMjcwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "A placeholder for a user avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTA1NjI0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    }
+  ]
 }
