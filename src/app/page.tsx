@@ -2,9 +2,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { CalendarSearch, LayoutDashboard } from 'lucide-react';
+import { CalendarSearch, LayoutDashboard, CreditCard, Goal } from 'lucide-react';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
-import { AppLogo, CreditCardIcon, FutbolIcon } from '@/components/icons';
+import { AppLogo } from '@/components/icons';
 
 const heroImage = PlaceHolderImages.find(p => p.id === 'hero-background');
 
@@ -15,12 +15,12 @@ const features = [
     description: 'Easily check for available courts in Pereira with real-time updates.',
   },
   {
-    icon: <FutbolIcon className="h-10 w-10 text-primary" />,
+    icon: <Goal className="h-10 w-10 text-primary" />,
     title: 'Book Online',
     description: 'Reserve your preferred court, date, and time in just a few clicks.',
   },
   {
-    icon: <CreditCardIcon className="h-10 w-10 text-primary" />,
+    icon: <CreditCard className="h-10 w-10 text-primary" />,
     title: 'Secure Payments',
     description: 'Pay for your bookings securely through our integrated payment system.',
   },
